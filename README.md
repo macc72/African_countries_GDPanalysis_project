@@ -12,7 +12,7 @@ After cleaning the data:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 55 entries, 0 to 54
 Data columns (total 5 columns):
- #   Column                    Non-Null Count  Dtype 
+    Column                    Non-Null Count  Dtype 
 ---  ------                    --------------  ----- 
  0   Rank                      55 non-null     object
  1   Country                   55 non-null     object
