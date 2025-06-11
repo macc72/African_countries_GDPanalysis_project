@@ -1,6 +1,6 @@
 # African_countries_GDPanalysis_project
 
-I fetched data from wikipedia [source]([url](https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal))) and did some cleaning and filtering.
+I fetched data from [wikipedia](https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)) and did some cleaning and filtering.
 
 ### Overview of the data obtained.
 
