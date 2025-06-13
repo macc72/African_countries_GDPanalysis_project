@@ -1,8 +1,13 @@
 # African_countries_GDPanalysis_project
 
-I fetched data from [wikipedia](https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)) and did some cleaning and filtering.
+Analysis of the GDP (nominal - in millions of dollars) of countries in Africa  
+Source - [wikipedia](https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal))  
 
-### Overview of the data obtained.
+Libraries 
+- matplotlib  
+- pandas  
+
+### Overview of the data obtained.  
 
 	Infromation 
  
@@ -18,3 +23,5 @@ I fetched data from [wikipedia](https://en.wikipedia.org/wiki/List_of_African_co
 	 4   Per capita(US$)           55 non-null     int64 
 	dtypes: int64(3), object(2)
 	memory usage: 2.3+ KB
+
+ 
